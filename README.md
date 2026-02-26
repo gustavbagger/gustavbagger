@@ -1,4 +1,4 @@
-# Hi, I'm Gustav Kjærbye Bagger
+## Hi, I'm Gustav Kjærbye Bagger
 - I'm a PhD candidate in Number Theory
 - I primarily code in Go, enjoying the static typing and compilation
 - I use Python, Mathematica and SageMath for mathematical computations
